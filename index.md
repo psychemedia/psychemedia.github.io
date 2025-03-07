@@ -8,7 +8,7 @@ Storytelling: https://tistales.org.uk / https://somewhen.org.uk / https://montys
 
 Hundreds of repos...
 
-- personal / ecletcitc / storynotes: https://github.com/psychemedia/
+- personal / eclectic / storynotes: https://github.com/psychemedia/
 
 - OUseful: https://github.com/innovationOUtside / https://github.com/OpenComputingLab / https://github.com/ouseful-demos
 
